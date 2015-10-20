@@ -1,5 +1,6 @@
 # week7
 Evaluating data, GitHub Pages, and telling stories with maps
+https://gis5574.signin.aws.amazon.com/console
 
 ## Story Mapping: *because no one has thought of a narrative approach to mapping until now apparently?*
 
